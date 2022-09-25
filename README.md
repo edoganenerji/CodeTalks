@@ -10,5 +10,4 @@ We implemented **react-redux** so as to handle global variable.
 Moreover, we use formik, modal, date-fns, flash-massage etc. to create a successful mobile app.
 
 ## CodeTalks App Screen Recording
-![ApplicationInfo]("https://github.com/edoganenerji/CodeTalks/blob/main/src/assets/info.gif?raw=true")
-<img src="/src/assets/info.gif?raw=true" width="200px">
+<img src="/src/assets/info.gif?raw=true" width="400px">
