@@ -11,3 +11,4 @@ Moreover, we use formik, modal, date-fns, flash-massage etc. to create a success
 
 ## CodeTalks App Screen Recording
 ![ApplicationInfo]("https://github.com/edoganenerji/CodeTalks/blob/main/src/assets/info.gif?raw=true")
+<img src="/src/assets/info.gif?raw=true" width="200px">
